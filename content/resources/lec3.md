@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Lecture notes about thermal aspects of a building: heat flow.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-401-introduction-to-building-technology-spring-2006/b30788361b242536dca9acb34f60028c_lec3.pdf
+file: /media/courses/4-401-introduction-to-building-technology-spring-2006/b30788361b242536dca9acb34f60028c_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec3.pdf
 uid: b3078836-1b24-2536-dca9-acb34f60028c
