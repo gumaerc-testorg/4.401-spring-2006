@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e884a702-8b06-9951-1fc5-db45f832c924
 resourcetype: Document
 title: baker_lighting.pdf
 uid: 9c7d44f9-bc50-b46f-a576-0472fcc4e98c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e884a702-8b06-9951-1fc5-db45f832c924
 resourcetype: Document
 title: carpente_thermal.pdf
 uid: 8a99418b-67a6-7980-8725-3cbd09b2ea59

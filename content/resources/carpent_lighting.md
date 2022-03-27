@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e884a702-8b06-9951-1fc5-db45f832c924
 resourcetype: Document
 title: carpent_lighting.pdf
 uid: 53e90dac-a0e2-e35f-9f41-f9d758bd71cc

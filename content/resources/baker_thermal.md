@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e884a702-8b06-9951-1fc5-db45f832c924
 resourcetype: Document
 title: baker_thermal.pdf
 uid: b8c86e46-46e6-f9a8-57e8-0aaf2bea6b04
