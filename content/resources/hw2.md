@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Heat and Air Flow.
-file: /media/courses/4-401-introduction-to-building-technology-spring-2006/ba123133d48cc6056db687d94b16f4fa_hw2.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/ba123133d48cc6056db687d94b16f4fa_hw2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: hw2.pdf
 uid: ba123133-d48c-c605-6db6-87d94b16f4fa
 ---
+Homework assignment on Heat and Air Flow.
+

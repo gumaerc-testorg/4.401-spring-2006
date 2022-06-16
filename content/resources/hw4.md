@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Photometry.
-file: /media/courses/4-401-introduction-to-building-technology-spring-2006/1caab29246e05eed180693c6f42320a2_hw4.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/1caab29246e05eed180693c6f42320a2_hw4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: hw4.pdf
 uid: 1caab292-46e0-5eed-1806-93c6f42320a2
 ---
+Homework assignment on Photometry.
+
