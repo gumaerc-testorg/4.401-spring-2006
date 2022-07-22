@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e6a5d755-6a17-8209-0291-c5009ec19928
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/lec1))
+Introduction ({{% resource_link 0f26ae69-6c92-db2f-6092-63659a8e0137 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +41,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/lec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Outside environment and human needs ([PDF - 3.5 MB]({{< baseurl >}}/resources/lec2))
+Outside environment and human needs ({{% resource_link b51b63ac-cbcf-cdee-3a1d-c9659b7dc050 "PDF - 3.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +50,7 @@ Outside environment and human needs ([PDF - 3.5 MB]({{< baseurl >}}/resources/le
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Heat flow ([PDF]({{< baseurl >}}/resources/lec3))
+Heat flow ({{% resource_link b3078836-1b24-2536-dca9-acb34f60028c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +59,7 @@ Heat flow ([PDF]({{< baseurl >}}/resources/lec3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Air flow ([PDF - 1.7 MB]({{< baseurl >}}/resources/lec4))
+Air flow ({{% resource_link d334a4f1-6903-98ce-6153-ac18260b7713 "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Air flow ([PDF - 1.7 MB]({{< baseurl >}}/resources/lec4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Humid air ([PDF - 3.0 MB]({{< baseurl >}}/resources/lec5))
+Humid air ({{% resource_link 733284cc-521d-6ea3-e4c3-734a0a20a789 "PDF - 3.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +77,7 @@ Humid air ([PDF - 3.0 MB]({{< baseurl >}}/resources/lec5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Thermal comfort and insulation ([PDF]({{< baseurl >}}/resources/lec6))
+Thermal comfort and insulation ({{% resource_link 911cb76e-e9a8-4080-82ca-d10caf2068da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +86,7 @@ Thermal comfort and insulation ([PDF]({{< baseurl >}}/resources/lec6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Condensation and moisture ([PDF]({{< baseurl >}}/resources/lec7))
+Condensation and moisture ({{% resource_link 38b76361-7109-8185-3ce6-1ff1a8f9c1be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +95,7 @@ Condensation and moisture ([PDF]({{< baseurl >}}/resources/lec7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Climate-responsive design ([PDF]({{< baseurl >}}/resources/lec8))
+Climate-responsive design ({{% resource_link 7d0bf2ec-8628-61bd-b319-258c81e5b818 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +104,7 @@ Climate-responsive design ([PDF]({{< baseurl >}}/resources/lec8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Passive controls, thermal balance ([PDF - 1.5 MB]({{< baseurl >}}/resources/lec9))
+Passive controls, thermal balance ({{% resource_link 5554edc3-fb79-119f-1e76-7875fc528311 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +113,7 @@ Passive controls, thermal balance ([PDF - 1.5 MB]({{< baseurl >}}/resources/lec9
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Forms of energy and active heating/cooling ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec10))
+Forms of energy and active heating/cooling ({{% resource_link 57b9704b-ae14-e543-ba62-619da106f52d "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +128,7 @@ Forms of energy and active heating/cooling ([PDF - 1.0 MB]({{< baseurl >}}/resou
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Physics of light, photometry ([PDF - 1.2 MB]({{< baseurl >}}/resources/lec11))
+Physics of light, photometry ({{% resource_link ea9971fd-d4ab-4cc7-68d6-cdc4ddd8f446 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +137,7 @@ Physics of light, photometry ([PDF - 1.2 MB]({{< baseurl >}}/resources/lec11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Vision and colors, visual comfort ([PDF]({{< baseurl >}}/resources/lec12))
+Vision and colors, visual comfort ({{% resource_link b100680f-1319-e6f7-a304-3407f57c5d14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +146,7 @@ Vision and colors, visual comfort ([PDF]({{< baseurl >}}/resources/lec12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Designing with natural light ([PDF]({{< baseurl >}}/resources/lec13))
+Designing with natural light ({{% resource_link 37dcd185-59d2-1cbf-9147-4c0a1259dce5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +155,7 @@ Designing with natural light ([PDF]({{< baseurl >}}/resources/lec13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Electric lighting ([PDF]({{< baseurl >}}/resources/lec14))
+Electric lighting ({{% resource_link 0ff64995-f5f3-faa9-810b-93c2cc3624e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +164,7 @@ Electric lighting ([PDF]({{< baseurl >}}/resources/lec14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Sound and hearing ([PDF]({{< baseurl >}}/resources/lec15))
+Sound and hearing ({{% resource_link a8b8909a-8710-1d5b-a0a9-2bd35bc2cc34 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +179,7 @@ Sound and hearing ([PDF]({{< baseurl >}}/resources/lec15))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Noise insulation ([PDF]({{< baseurl >}}/resources/lec16))
+Noise insulation ({{% resource_link 5c820ca2-0e83-040f-4351-226a921bd3d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +188,7 @@ Noise insulation ([PDF]({{< baseurl >}}/resources/lec16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Room acoustics ([PDF]({{< baseurl >}}/resources/lec17))
+Room acoustics ({{% resource_link 1efbb449-d251-81c1-c2cb-b38104847fca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +197,7 @@ Room acoustics ([PDF]({{< baseurl >}}/resources/lec17))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Construction principles, foundations ([PDF]({{< baseurl >}}/resources/lec18))
+Construction principles, foundations ({{% resource_link 09c27c25-fada-3d16-6514-3831535d274c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +212,7 @@ Construction principles, foundations ([PDF]({{< baseurl >}}/resources/lec18))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Masonry ([PDF]({{< baseurl >}}/resources/lec19))
+Masonry ({{% resource_link 0fc42154-f5ae-9a01-c0fa-54db7a82933b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +221,7 @@ Masonry ([PDF]({{< baseurl >}}/resources/lec19))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Concrete ([PDF]({{< baseurl >}}/resources/lec20))
+Concrete ({{% resource_link 38a8820a-acc6-621e-c3d0-10e89e6edc56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +230,7 @@ Concrete ([PDF]({{< baseurl >}}/resources/lec20))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Timber ([PDF - 2.1 MB]({{< baseurl >}}/resources/lec21))
+Timber ({{% resource_link 8f11c156-446c-d326-1ee0-42e3a362cb3d "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +239,7 @@ Timber ([PDF - 2.1 MB]({{< baseurl >}}/resources/lec21))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Steel ([PDF]({{< baseurl >}}/resources/lec22))
+Steel ({{% resource_link bf7be285-8f05-88ad-8e0e-776728bb3952 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +248,7 @@ Steel ([PDF]({{< baseurl >}}/resources/lec22))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Building elements: walls, openings, floors, roofs ([PDF]({{< baseurl >}}/resources/lec23))
+Building elements: walls, openings, floors, roofs ({{% resource_link 4479bfc9-2ea5-a407-5dad-b91f2ea2fd7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
