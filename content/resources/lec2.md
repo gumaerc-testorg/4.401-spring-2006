@@ -6,6 +6,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/b51b63accbc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec2.pdf
 uid: b51b63ac-cbcf-cdee-3a1d-c9659b7dc050
 ---
 Lecture notes about thermal aspects of a building: outside environment and human needs.
-

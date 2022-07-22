@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/00899cc1569
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kresge.pdf
 uid: 00899cc1-569d-8a85-4324-5e104dff6000
 ---
 Example of student work: Kresge auditorium lighting studies and acoustics.
-

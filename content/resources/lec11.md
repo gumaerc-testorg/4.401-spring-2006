@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/ea9971fdd4a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec11.pdf
 uid: ea9971fd-d4ab-4cc7-68d6-cdc4ddd8f446
 ---
 Lecture notes about physics of light, photometry.
-

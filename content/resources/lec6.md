@@ -6,6 +6,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/911cb76ee9a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6.pdf
 uid: 911cb76e-e9a8-4080-82ca-d10caf2068da
 ---
 Lecture notes about thermal aspects of a building: thermal comfort and insulation.
-

@@ -6,6 +6,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/b8c86e4646e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: baker_thermal.pdf
 uid: b8c86e46-46e6-f9a8-57e8-0aaf2bea6b04
 ---
 Example of student work: thermal balance report of Baker House dining room.
-

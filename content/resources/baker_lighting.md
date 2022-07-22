@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/9c7d44f9bc5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: baker_lighting.pdf
 uid: 9c7d44f9-bc50-b46f-a576-0472fcc4e98c
 ---
 Example of student work: lighting diagnostic of Baker House dining room.
-

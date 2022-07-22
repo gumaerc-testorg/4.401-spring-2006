@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/733284cc521
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec5.pdf
 uid: 733284cc-521d-6ea3-e4c3-734a0a20a789
 ---
 Lecture notes about thermal aspects of a building: humid air.
-

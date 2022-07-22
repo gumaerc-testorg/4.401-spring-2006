@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/8f11c156446
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec21.pdf
 uid: 8f11c156-446c-d326-1ee0-42e3a362cb3d
 ---
 Lecture notes about construction methods: timber.
-

@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/1167643eac3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz1.pdf
 uid: 1167643e-ac3e-1875-b0c6-5a07d22b0e85
 ---
 Quiz on thermal and lighting aspects of a building.
-

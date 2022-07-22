@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/37dcd18559d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec13.pdf
 uid: 37dcd185-59d2-1cbf-9147-4c0a1259dce5
 ---
 Lecture notes about designing with natural light.
-

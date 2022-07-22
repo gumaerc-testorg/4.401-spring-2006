@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/a3b3b7e924c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw7.pdf
 uid: a3b3b7e9-24c8-3da7-43dd-b93def8c75af
 ---
 Homework assignment on Room Acoustics and Construction Methods.
-

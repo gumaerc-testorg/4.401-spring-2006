@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/5c820ca20e8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec16.pdf
 uid: 5c820ca2-0e83-040f-4351-226a921bd3d2
 ---
 Lecture notes about noise insulation.
-

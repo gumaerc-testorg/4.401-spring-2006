@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/2a5cfac7e24
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: selection.pdf
 uid: 2a5cfac7-e24a-06a2-133e-191be17423d4
 ---
 Instructions for building selection for the design project.
-

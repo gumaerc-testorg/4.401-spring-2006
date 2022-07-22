@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/0567322a505
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3.pdf
 uid: 0567322a-5053-1109-7e12-5e4dc87ec818
 ---
 Homework assignment on Humid Air, Thermal Comfort, Insulation, and Condensation.
-

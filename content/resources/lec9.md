@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/5554edc3fb7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec9.pdf
 uid: 5554edc3-fb79-119f-1e76-7875fc528311
 ---
 Lecture notes about passive controls and thermal balance.
-

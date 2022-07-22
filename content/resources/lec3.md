@@ -5,6 +5,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/b30788361b2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec3.pdf
 uid: b3078836-1b24-2536-dca9-acb34f60028c
 ---
 Lecture notes about thermal aspects of a building: heat flow.
-

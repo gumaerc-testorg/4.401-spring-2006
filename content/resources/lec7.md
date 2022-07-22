@@ -6,6 +6,7 @@ file: /courses/4-401-introduction-to-building-technology-spring-2006/38b76361710
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec7.pdf
 uid: 38b76361-7109-8185-3ce6-1ff1a8f9c1be
 ---
 Lecture notes about thermal aspects of a building: condensation and moisture.
-
