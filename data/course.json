@@ -54,8 +54,10 @@
   "learning_resource_types": [
     "Problem Sets",
     "Exams",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Image Gallery"
   ],
-  "site_uid": "d8051286-fed6-44fc-bde7-afce8a03a589",
+  "site_uid": "37f4bf0d-352b-4ba9-87d7-fec1ecd71859",
+  "site_short_id": "4.401-spring-2006",
   "title": "Course Metadata"
 }
