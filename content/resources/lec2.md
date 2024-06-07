@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes about thermal aspects of a building: outside environment
   and human needs.'
 file: /courses/4-401-introduction-to-building-technology-spring-2006/b51b63accbcfcdee3a1dc9659b7dc050_lec2.pdf
+file_size: 3686979
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

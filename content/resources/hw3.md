@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment on Humid Air, Thermal Comfort, Insulation, and Condensation.
 file: /courses/4-401-introduction-to-building-technology-spring-2006/0567322a505311097e125e4dc87ec818_hw3.pdf
+file_size: 561760
 file_type: application/pdf
 learning_resource_types:
 - Assignments

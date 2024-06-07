@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about physics of light, photometry.
 file: /courses/4-401-introduction-to-building-technology-spring-2006/ea9971fdd4ab4cc768d6cdc4ddd8f446_lec11.pdf
+file_size: 1229075
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

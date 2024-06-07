@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about forms of energy and active heating/cooling.
 file: /courses/4-401-introduction-to-building-technology-spring-2006/57b9704bae14e543ba62619da106f52d_lec10.pdf
+file_size: 1087765
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
