@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture notes about construction methods: concrete.'
 file: /courses/4-401-introduction-to-building-technology-spring-2006/38a8820aacc6621ec3d010e89e6edc56_lec20.pdf
+file_size: 130169
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

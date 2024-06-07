@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about vision and colors, and visual comfort.
 file: /courses/4-401-introduction-to-building-technology-spring-2006/b100680f1319e6f7a3043407f57c5d14_lec12.pdf
+file_size: 424396
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

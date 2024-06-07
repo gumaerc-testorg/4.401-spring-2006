@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture notes about construction methods: steel.'
 file: /courses/4-401-introduction-to-building-technology-spring-2006/bf7be2858f0588ad8e0e776728bb3952_lec22.pdf
+file_size: 769482
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

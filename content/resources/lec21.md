@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture notes about construction methods: timber.'
 file: /courses/4-401-introduction-to-building-technology-spring-2006/8f11c156446cd3261ee042e3a362cb3d_lec21.pdf
+file_size: 2176810
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
