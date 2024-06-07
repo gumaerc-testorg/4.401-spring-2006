@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes about thermal aspects of a building: condensation and
   moisture.'
 file: /courses/4-401-introduction-to-building-technology-spring-2006/38b76361710981853ce61ff1a8f9c1be_lec7.pdf
+file_size: 378487
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

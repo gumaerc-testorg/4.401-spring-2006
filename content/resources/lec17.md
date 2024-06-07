@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about room acoustics.
 file: /courses/4-401-introduction-to-building-technology-spring-2006/1efbb449d25181c1c2cbb38104847fca_lec17.pdf
+file_size: 169380
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

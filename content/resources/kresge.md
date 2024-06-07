@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example of student work: Kresge auditorium lighting studies and acoustics.'
 file: /courses/4-401-introduction-to-building-technology-spring-2006/00899cc1569d8a8543245e104dff6000_kresge.pdf
+file_size: 467621
 file_type: application/pdf
 learning_resource_types:
 - Projects
