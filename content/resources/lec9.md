@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about passive controls and thermal balance.
-file: /courses/4-401-introduction-to-building-technology-spring-2006/5554edc3fb79119f1e767875fc528311_lec9.pdf
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/5554edc3fb79119f1e767875fc528311_lec9.pdf
 file_size: 1520208
 file_type: application/pdf
 learning_resource_types:

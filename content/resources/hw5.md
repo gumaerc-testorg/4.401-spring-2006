@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Designing with Natural Light ? Visual Comfort.
-file: /courses/4-401-introduction-to-building-technology-spring-2006/cbae0136c0b05015b9d9698530717e32_hw5.pdf
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/cbae0136c0b05015b9d9698530717e32_hw5.pdf
 file_size: 1015967
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes about thermal aspects of a building: thermal comfort and
   insulation.'
-file: /courses/4-401-introduction-to-building-technology-spring-2006/911cb76ee9a8408082cad10caf2068da_lec6.pdf
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/911cb76ee9a8408082cad10caf2068da_lec6.pdf
 file_size: 602948
 file_type: application/pdf
 learning_resource_types:
