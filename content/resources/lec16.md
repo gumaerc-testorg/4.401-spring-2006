@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about noise insulation.
-file: /courses/4-401-introduction-to-building-technology-spring-2006/5c820ca20e83040f4351226a921bd3d2_lec16.pdf
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/5c820ca20e83040f4351226a921bd3d2_lec16.pdf
 file_size: 322650
 file_type: application/pdf
 learning_resource_types:

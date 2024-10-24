@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about electric lighting.
-file: /courses/4-401-introduction-to-building-technology-spring-2006/0ff64995f5f3faa9810b93c2cc3624e2_lec14.pdf
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/0ff64995f5f3faa9810b93c2cc3624e2_lec14.pdf
 file_size: 374011
 file_type: application/pdf
 learning_resource_types:
