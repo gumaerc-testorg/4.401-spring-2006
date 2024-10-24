@@ -3,7 +3,7 @@ content_type: resource
 description: 'A typical street in a hot and dry climate (Corsica, France): Narrow
   for shading and cooling, high thermal mass to delay daytime heat penetration, exterior
   shadings and overhangs to minimize solar gains. (Photograph by Prof. Marilyne Andersen.)'
-file: /courses/4-401-introduction-to-building-technology-spring-2006/88cc1886840dcfc338ee7922806e2842_chp_street.jpg
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/88cc1886840dcfc338ee7922806e2842_chp_street.jpg
 file_size: 90699
 file_type: image/jpeg
 image_metadata:

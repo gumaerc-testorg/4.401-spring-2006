@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: A thermal balance report on the Carpenter Center
   for Visual Arts.'
-file: /courses/4-401-introduction-to-building-technology-spring-2006/8a99418b67a6798087253cbd09b2ea59_carpente_thermal.pdf
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/8a99418b67a6798087253cbd09b2ea59_carpente_thermal.pdf
 file_size: 150053
 file_type: application/pdf
 learning_resource_types:
