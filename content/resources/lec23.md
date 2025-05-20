@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes about building elements: walls, openings, floors, roofs.'
-file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/4479bfc92ea5a4075dadb91f2ea2fd7a_lec23.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/4479bfc92ea5a4075dadb91f2ea2fd7a_lec23.pdf
 file_size: 227087
 file_type: application/pdf
 learning_resource_types:

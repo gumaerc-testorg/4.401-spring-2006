@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes about construction methods: masonry.'
-file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/0fc42154f5ae9a01c0fa54db7a82933b_lec19.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/0fc42154f5ae9a01c0fa54db7a82933b_lec19.pdf
 file_size: 795414
 file_type: application/pdf
 learning_resource_types:

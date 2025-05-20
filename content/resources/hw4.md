@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Photometry.
-file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/1caab29246e05eed180693c6f42320a2_hw4.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/1caab29246e05eed180693c6f42320a2_hw4.pdf
 file_size: 223823
 file_type: application/pdf
 learning_resource_types:

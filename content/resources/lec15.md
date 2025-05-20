@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about sound and hearing.
-file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/a8b8909a87101d5ba0a92bd35bc2cc34_lec15.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/a8b8909a87101d5ba0a92bd35bc2cc34_lec15.pdf
 file_size: 231430
 file_type: application/pdf
 learning_resource_types:
