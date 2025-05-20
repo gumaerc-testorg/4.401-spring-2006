@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Solar Radiation and Climate.
-file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/0a8e0075fe925921db0d0ec4bfe81402_hw1.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/0a8e0075fe925921db0d0ec4bfe81402_hw1.pdf
 file_size: 1332439
 file_type: application/pdf
 learning_resource_types:

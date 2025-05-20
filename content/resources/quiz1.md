@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz on thermal and lighting aspects of a building.
-file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/1167643eac3e1875b0c65a07d22b0e85_quiz1.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/1167643eac3e1875b0c65a07d22b0e85_quiz1.pdf
 file_size: 102353
 file_type: application/pdf
 learning_resource_types:
