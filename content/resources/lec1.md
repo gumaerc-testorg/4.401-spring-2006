@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides with an introduction to the course and information about
   learning objectives, contents, and assignments.
-file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/0f26ae696c92db2f609263659a8e0137_lec1.pdf
+file: /courses/4-401-introduction-to-building-technology-spring-2006/0f26ae696c92db2f609263659a8e0137_lec1.pdf
 file_size: 173041
 file_type: application/pdf
 learning_resource_types:
