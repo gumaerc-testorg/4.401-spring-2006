@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about designing with natural light.
-file: /courses/4-401-introduction-to-building-technology-spring-2006/37dcd18559d21cbf91474c0a1259dce5_lec13.pdf
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/37dcd18559d21cbf91474c0a1259dce5_lec13.pdf
 file_size: 287196
 file_type: application/pdf
 learning_resource_types:
