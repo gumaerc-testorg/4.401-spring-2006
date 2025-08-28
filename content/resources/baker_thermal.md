@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: thermal balance report of Baker House dining
   room.'
-file: /courses/4-401-introduction-to-building-technology-spring-2006/b8c86e4646e6f9a857e80aaf2bea6b04_baker_thermal.pdf
+file: /ol-ocw-studio-app/courses/4-401-introduction-to-building-technology-spring-2006/b8c86e4646e6f9a857e80aaf2bea6b04_baker_thermal.pdf
 file_size: 171047
 file_type: application/pdf
 learning_resource_types:
